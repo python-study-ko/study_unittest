@@ -36,3 +36,6 @@ class NewVisitorTest(unittest.TestCase):
         # 해당 url에 접속시 그녀가 만든 작업 목록이 그대로 있는것을 확인
 
         # 만족하고 잔다
+
+if __name__ == '__main__':
+    unittest.main(warnings='ignore')
